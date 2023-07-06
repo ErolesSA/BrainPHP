@@ -1,2 +1,1 @@
-# BrainPHP
-PHP
+# Brain-Project
